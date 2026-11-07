@@ -33,4 +33,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="About Me"/>
+
+    <TextView
+        android:id="@+id/FooterTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="© 2026 Portfolio App - All Rights Reserved"
+        android:textSize="12sp"
+        android:textColor="#546E7A"
+        android:layout_marginTop="30dp"/>
 </LinearLayout>
